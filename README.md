@@ -64,10 +64,6 @@ Feel free to contribute, report issues, or discuss the projects in this reposito
 - Email: salmaouh20@gmail.com ✉️
 - LinkedIn: (https://www.linkedin.com/in/salma-ouhsassi-362158282/) 🔗
 
-## License 📜
-
-This repository is licensed under the **MIT License**. See the [LICENSE.md](LICENSE.md) file for details. 🛡️
-
 ---
 
 Thank you for visiting **ByteNBuilder**! Stay tuned for more exciting projects, experiments, and insights into the world of **embedded systems**, **virtualization**, and **automotive technology**! 🌟

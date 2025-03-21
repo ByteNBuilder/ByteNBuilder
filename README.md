@@ -21,7 +21,6 @@ My goal is to build a strong portfolio as a **software embedded engineer** and c
   
 - **Embedded Systems**: 
   ![STM32](https://img.shields.io/badge/-STM32-0078D4?style=for-the-badge&logo=stm32&logoColor=white)
-  ![ARM Cortex-M4](https://img.shields.io/badge/-ARM%20Cortex-M4-FF6F61?style=for-the-badge&logo=arm&logoColor=white)
   ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-32CD32?style=for-the-badge&logo=freertos&logoColor=white)
   
 - **Simulation Tools**: 
